@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Volume Fix</string>
+    <string name="description">Locks the volume rocker to media volume</string>
+    <string name="main_description">Volume Fix locks the volume rocker to control media volume only</string>
+    <string name="status">Volume fix is %1$s.</string>
+    <string name="disabled_help">To toggle, click \"Accessibility Settings\" below</string>
+</resources>
